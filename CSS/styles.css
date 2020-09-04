@@ -1,0 +1,109 @@
+body {
+  background: #ffffff;
+}
+
+h1{
+  text-align: center;
+}
+
+hr{
+  border: 1px solid;
+  border-radius: 2px;
+  width: 20%;
+  font-weight: bolder;
+}
+
+/* Navbar */
+.navbar{
+  position: fixed;
+  width: 100%;
+  float: none;
+}
+
+.navbar-nav {
+  margin-left: 600px;
+}
+
+.nav-item {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* Home Container */
+.home-container {
+  height: 800px;
+  text-align: center;
+  padding-top: 15%;
+  padding-bottom: 7%;
+}
+
+.intro{
+  color: white;
+}
+
+/* About Container  */
+.about-container {
+  text-align: center;
+  padding: 0 250px 100px 250px;
+}
+
+.about-para {
+  line-height: 3;
+  text-align: left;
+}
+
+.pic1 {
+  float: left;
+  border-radius: 100%;
+  padding-right: 40px;
+  padding-left: 40px;
+}
+
+/* Skills Container */
+.skills-container {
+  background-color: #b9ac92;
+  padding: 10px 250px 0 250;
+  text-align: center;
+}
+
+.top-stuff{
+  padding-top: 60px;
+}
+
+.bottom-stuff{
+  padding-top: 60px;
+}
+
+.skillContent{
+  padding-bottom: 50px;
+}
+
+/* Projects Container */
+.projects-container {
+  text-align: center;
+  padding: 30px 250px 100px 250px;
+}
+
+/* .projectImg{
+  width: 50%;
+} */
+
+/* Contact Container */
+.contact-container{
+  text-align: center;
+  background-color: rgb(218, 214, 214);
+}
+
+/* Footer container */
+
+.footer{
+  text-align: center;
+  background-color: lightskyblue;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.fab{
+  padding-right: 10px;
+  padding-left: 10px;
+}
