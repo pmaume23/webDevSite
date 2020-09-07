@@ -136,6 +136,13 @@ hr{
   -webkit-transform: translateY(250px);
 }
 
+/* Quotes Carousel */
+
+.carousel-inner > .carousel-item > img{
+  width:350px;
+  height:500px;
+}
+
 /* Contact Container */
 .contact-container{
   text-align: center;
