@@ -32,7 +32,7 @@ hr{
 /* Home Container */
 .home-container {
   height: 800px;
-  width: 100%;
+/*   width: 100%; */
   text-align: center;
   padding-top: 15%;
   padding-bottom: 7%;
